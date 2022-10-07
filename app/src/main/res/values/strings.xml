@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WalmatrStroreApp_Extention</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in_hint">Sign in to your account</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have">Don\'t have an account?</string>
+    <string name="new_acc">Create a new account</string>
+    <string name="email_acc">Email address (required)</string>
+    <string name="passwd">Password (required)</string>
+</resources>
